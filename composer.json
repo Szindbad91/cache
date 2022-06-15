@@ -1,0 +1,19 @@
+{
+    "name": "mihalyfij/cache",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mihalyfij\\Cache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mihályfi János",
+            "email": "info@mihalyfijanos.hu"
+        }
+    ],
+    "require": {}
+}
